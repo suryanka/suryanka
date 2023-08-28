@@ -6,7 +6,7 @@
 
 - 💼 I'm a Software Engineer at Amdocs!
 - 🖥️ I'm mostly coding in cpp to solve coding challenges.
-- 🚀 I'm loving to work on my projects.
+- 🚀 I'm a react developer, developed clones of multiple popular websites.
 - 📫 How to reach me **suryankaghosh19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
